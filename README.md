@@ -3,5 +3,7 @@
 _this  textis_/
 _**this text is bold and itallic**_/
 ~~oops i made an error~~/
+// this is a quote.
+>this is a github.
 
 

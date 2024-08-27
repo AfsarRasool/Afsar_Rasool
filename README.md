@@ -1,6 +1,6 @@
 # welcome to github./
 **this  text is bold**\
-_this  textis_\
+_this  text is ittalic_\
 _**this text is bold and itallic**_\
 ~~oops i made an error~~\
 //this is a quote.\

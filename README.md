@@ -1,5 +1,5 @@
 # welcome to github./
-**this  textis**\
+**this  text is bold**\
 _this  textis_\
 _**this text is bold and itallic**_\
 ~~oops i made an error~~\
